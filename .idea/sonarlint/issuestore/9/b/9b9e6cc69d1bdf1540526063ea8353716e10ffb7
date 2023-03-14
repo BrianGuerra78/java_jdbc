@@ -1,0 +1,11 @@
+
+`	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿê¼Ûøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…Æöÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„€Ö„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁØÊ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¶­øúÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(•Œ¿ûÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(…Æöÿÿÿÿÿ
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÆÀšÙÊ0
